@@ -1,6 +1,6 @@
-# Deploying an ASP.NET Core web app to AWS Linux VM and SQL Server for Linux - Will it Deploy? Episode 7
+# Deploying an ASP.NET Core web app to an AWS Linux VM and SQL Server for Linux - Will it Deploy? Episode 7
 
-Welcome to another **Will it Deploy?** episode where we try to automate the deployment of different technologies with Octopus Deploy. In this episode, we're trying to deploy an ASP.NET Core 2.0 web app to an Amazon Web Services (AWS) Ubuntu Virtual Machine (VM) with SQL Server for Linux. We also explore setting up a cloud-based delivery pipeline with [AppVeyor](https://appveyor.com) and [Octopus](https://octopus.com/cloud).
+Welcome to another **Will it Deploy?** episode where we try to automate the deployment of different technologies with Octopus Deploy. In this episode, we're trying to deploy an ASP.NET Core 2.0 web app to an Amazon Web Services (AWS) Ubuntu Linux Virtual Machine (VM) with SQL Server for Linux. We also explore setting up a cloud-based delivery pipeline with [AppVeyor](https://appveyor.com) and [Octopus](https://octopus.com/cloud).
 
 [![Deploying an ASP.NET Core app to Linux - Will it Deploy? Episode 7](images/will-it-deploy.png)](https://youtu.be/KhKnb58xOWk "Deploying an ASP.NET Core app to Linux - Will it Deploy? Episode 7")
 
